@@ -41,7 +41,7 @@ class MainTest {
         //WHEN
         boolean actual = Main.badPasswords(str);
         //THEN
-        assertEquals(true, actual);
+        assertEquals(false, actual);
     }
 
     @Test

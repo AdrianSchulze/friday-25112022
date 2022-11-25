@@ -4,14 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f24e116e-8a42-4582-b6a1-a0d1a5046037" name="Changes" comment="Friday Aufgabe - umständlich">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/de/neuefische/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/de/neuefische/MainTest.java" afterDir="false" />
+    <list default="true" id="f24e116e-8a42-4582-b6a1-a0d1a5046037" name="Changes" comment="Updated pom.xml">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,7 +49,7 @@
       <recent name="de.neuefische" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.MainTest.includesNoLowerCase">
+  <component name="RunManager" selected="JUnit.MainTest">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="de.neuefische.Main" />
       <module name="Freitag-25112022" />
@@ -134,9 +128,9 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.MainTest.includesNoLowerCase" />
-        <item itemvalue="Application.Main" />
         <item itemvalue="JUnit.MainTest" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="JUnit.MainTest.includesNoLowerCase" />
         <item itemvalue="JUnit.MainTest.isNumberNotLongEnoughForPassword" />
         <item itemvalue="JUnit.MainTest.isNumberNotString" />
       </list>
@@ -150,7 +144,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1669368011687</updated>
-      <workItem from="1669368013194" duration="12426000" />
+      <workItem from="1669368013194" duration="13799000" />
     </task>
     <task id="LOCAL-00001" summary="Init: BIG BANG">
       <created>1669384987904</created>
@@ -159,7 +153,21 @@
       <option name="project" value="LOCAL" />
       <updated>1669384987904</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Friday Aufgabe - umständlich">
+      <created>1669385960088</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1669385960088</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Updated pom.xml">
+      <created>1669386058841</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1669386058841</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -179,6 +187,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Init: BIG BANG" />
     <MESSAGE value="Friday Aufgabe - umständlich" />
-    <option name="LAST_COMMIT_MESSAGE" value="Friday Aufgabe - umständlich" />
+    <MESSAGE value="Updated pom.xml" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated pom.xml" />
   </component>
 </project>
